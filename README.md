@@ -5,16 +5,10 @@ It includes the Create React Templates including a working Express server backen
 
 To Get up and running:
 
-install create react app globally
-### `npm install -g create-react-app`
-
-create a react project
-### `create-react-app {your project name here}`
-
-Install depenencies
+Install dependencies first install at the root then at the client
 ### `npm install`
 
-Run application
+Run application at the rrot directory
 ### `npm start`
 
 your application will be hosted on http://localhost:3000
